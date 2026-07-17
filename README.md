@@ -17,7 +17,7 @@ A responsive calculator web application that performs basic arithmetic operation
 ##  Preview
 
 <p align="center">
-  <img src="assets/preview.PNG" alt="Calculator Preview" width="50%">
+  <img src="assets./preview.PNG" alt="Calculator Preview" width="50%">
 </p>
 
 <!--##  Demo
